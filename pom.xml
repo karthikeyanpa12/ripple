@@ -37,7 +37,7 @@
   </dependencies>
 <profiles>
 <profile>
-     <id>spring-deploy</id>
+     <id>ripple-deploy</id>
  <distributionManagement>
     <repository>
       <id>ripple-releases</id>
