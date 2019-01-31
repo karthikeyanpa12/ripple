@@ -40,13 +40,13 @@
      <id>spring-deploy</id>
  <distributionManagement>
     <repository>
-      <id>spring-releases</id>
-      <name>spring-releases</name>
+      <id>ripple-releases</id>
+      <name>ripple-releases</name>
       <url>http://ec2-35-178-15-230.eu-west-2.compute.amazonaws.com:8081/nexus/content/repositories/ripple-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>spring-snapshots</id>
-      <name>spring-snapshots</name>
+      <id>ripple-snapshots</id>
+      <name>ripple-snapshots</name>
       <url>http://ec2-35-178-15-230.eu-west-2.compute.amazonaws.com:8081/nexus/content/repositories/ripple-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
