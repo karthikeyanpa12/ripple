@@ -45,8 +45,8 @@
       <url>http://ec2-35-178-15-230.eu-west-2.compute.amazonaws.com:8081/nexus/content/repositories/ripple-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>ripple-snapshots</id>
-      <name>ripple-snapshots</name>
+      <id>ripple-snapshot</id>
+      <name>ripple-snapshot</name>
       <url>http://ec2-35-178-15-230.eu-west-2.compute.amazonaws.com:8081/nexus/content/repositories/ripple-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
